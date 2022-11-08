@@ -1,15 +1,9 @@
 #English
-
-It is well suited for an online store.
-
-Beautiful website design.
-
-Adding products to corizina.
+1) It is well suited for an online store.
+2) Beautiful website design.
+3) Adding products to corizina.
 
 #Русский
-
-Хорошо подходит для интернет магазина.
-
-Красивый дизайн сайта.
-
-Добавление товаров в коризину.
+1) Хорошо подходит для интернет магазина.
+2) Красивый дизайн сайта.
+3) Добавление товаров в коризину.
